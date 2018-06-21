@@ -4,4 +4,5 @@
 (3) Generated 6 points on the learning curve plot, using (0.1, 0.3, 0.5, 0.7, 0.8, 0.9) random fraction on the training set and testing on the full data set.    	
 
 ![Alt text](https://github.com/AbhishekNagaraj1/Farm-Advertisement-Logistic-Regression-and-Naive-Bayes/blob/master/LR%20Plot.png)   
+(4) Best Classification Accuracy for Logistic Regression - 0.9042 for 0.7 random fraction.  
 ![Alt text](https://github.com/AbhishekNagaraj1/Farm-Advertisement-Logistic-Regression-and-Naive-Bayes/blob/master/Naive%20Bayes%20Plot.png)   	
